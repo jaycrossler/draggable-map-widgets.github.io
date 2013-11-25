@@ -1,3 +1,6 @@
+CACHE/*
+.idea
+.idea/*
 *.log
 *.pot
 *.pyc
